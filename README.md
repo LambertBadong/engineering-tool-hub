@@ -70,8 +70,8 @@ Python · Tkinter · PyInstaller · SolidWorks API (COM) · C# SolidWorks add-in
 
 ## Related
 
-- [Engineering Second Brain](https://github.com/LamboProjects/foxfab-engineering-vault) — the Obsidian knowledge base this hub works alongside.
+- [Engineering Second Brain](https://github.com/LambertBadong/foxfab-engineering-vault) — the Obsidian knowledge base this hub works alongside.
 
 ---
 
-Built by **Lambert Badong** · [GitHub](https://github.com/LamboProjects)
+Built by **Lambert Badong** · [GitHub](https://github.com/LambertBadong)
