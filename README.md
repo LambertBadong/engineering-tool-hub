@@ -59,14 +59,14 @@ An in-house Windows desktop app that puts a mechanical design team's entire post
              + VBA macros      BOMs              packet print   archive-first
 ```
 
-- **SolidWorks COM API** — attaches to the running session: BOM generation, PDF/DXF/eDrawings export, reference repair; launches VBA macros from the hub.
+- **Native SolidWorks add-in (C#)** plus the **SolidWorks COM API** — attaches to the running session: BOM generation, PDF/DXF/eDrawings export, reference repair; launches VBA macros from the hub.
 - **Guardrails** — archive-first (never overwrites), pre-flight checks, two-way CAD↔BOM checks, final audit, built-in bug reporter.
 - **AI** — Claude Code skills mirror the tools from the command line, plus assistants for purchased-parts extraction (two-model cross-check), design Q&A and drawing self-checks.
 - **Quality** — 400+ automated tests (pytest); PyInstaller .exe with auto-updating deployment.
 
 ## Tech
 
-Python · Tkinter · PyInstaller · SolidWorks API (COM) · VBA · xlwings · Acrobat COM · PyMuPDF · pytest · Claude Code
+Python · Tkinter · PyInstaller · SolidWorks API (COM) · C# SolidWorks add-in · VBA · xlwings · Acrobat COM · PyMuPDF · pytest · Claude Code
 
 ## Related
 
