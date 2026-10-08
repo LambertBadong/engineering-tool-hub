@@ -59,7 +59,9 @@ flowchart TD
 
 **10–15 seconds per part.**
 
-<!-- SCREENSHOT SLOT 2: Revision Updater after a publish, showing the queue row and the activity log. -->
+![The Revision Updater panel](img/app-revision-updater.png)
+
+<sub>The Revision Updater in the real application, before a job is loaded. Saved parts queue in the table; Publish all runs the chain above.</sub>
 
 ### What the designer gets back
 

@@ -39,8 +39,6 @@ flowchart TD
 
 **1–2 minutes.** About 20 seconds when the assembly is already fully loaded.
 
-<!-- SCREENSHOT SLOT 3: BOM Filler finished, with the check report visible. -->
-
 ## The two-way check
 
 Most checks only ask one question: *is everything in the BOM present on disk?* This one also asks the reverse: *is everything on disk in the BOM?* The second question is the one that finds a part that quietly dropped out of the assembly.

@@ -21,6 +21,8 @@ Jobs\
 
 Every tool in the hub starts from the same field. Type `20417`, press Enter, and the folders above are found automatically.
 
+![The Workflow page: the tools a job passes through](img/app-workflow.png)
+
 ## Stage by stage
 
 | # | Stage | By hand | With the hub |
@@ -44,7 +46,9 @@ The hub reads the new job's release form (the amperage, the enclosure size, the 
 
 The result is a ranked list of the five best candidates, each with a line explaining its score, and the two drawings side by side for a visual check.
 
-<!-- SCREENSHOT SLOT 4: Reference Finder results list, invented jobs only. -->
+![The Reference Finder panel](img/app-reference-finder.png)
+
+<sub>The Reference Finder in the real application, shown empty. Results are real past jobs, so none are shown here.</sub>
 
 Before this tool, the search ran through a spreadsheet of thousands of past jobs, a fifth to a third of them with blank entries. On a bad day it took up to an hour, and the job chosen was not always the best one available.
 
@@ -63,8 +67,6 @@ Covered in detail in [A BOM that checks itself](bom-checks.md).
 ### 6. The manufacturing packet
 
 The hub gathers every document the shop needs, orders them the way the shop works through them, and sends the whole set to the printer through a single Acrobat session. A simulation mode writes the packet to PDF instead, so it can be reviewed before paper is used.
-
-<!-- SCREENSHOT SLOT 5: Doc Prep & Print, packet list in shop order. -->
 
 ## After release
 

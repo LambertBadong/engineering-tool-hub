@@ -11,7 +11,9 @@
 
 > **Showcase repository.** The application's source code belongs to my employer and is not published here. This repo documents what the tool does, how it works and what it changed. Every job number, customer name, part number and file path shown is invented.
 
-<!-- SCREENSHOT SLOT 1: Home screen of the app (hero image). -->
+![The Engineering Tool Hub home screen](docs/img/app-home.png)
+
+<sub>The real application, v3.6.6. Screenshots in this repo show the app with no job loaded.</sub>
 
 ---
 
