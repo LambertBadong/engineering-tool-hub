@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">Per-job overhead before and after the Engineering Tool Hub</title>
+  <desc id="d">25-part job: 3 hours before, 20 minutes after. 50-part job: 4.5 hours before, 25 minutes after. 120-plus-part job: 9 hours before, 30 minutes after.</desc>
+  <rect x="1" y="1" width="758" height="328" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="28" y="38" font-size="17" font-weight="600" fill="#1f2328">Non-design overhead per job</text>
+  <rect x="470" y="25" width="14" height="14" rx="3" fill="#8c959f"/>
+  <text x="490" y="37" font-size="13" fill="#57606a">Before (by hand)</text>
+  <rect x="612" y="25" width="14" height="14" rx="3" fill="#1a7f37"/>
+  <text x="632" y="37" font-size="13" fill="#57606a">After (Tool Hub)</text>
+
+  <!-- scale: 540 min = 500 px, bars start at x=150 -->
+  <text x="28" y="92" font-size="14" font-weight="600" fill="#1f2328">25 parts</text>
+  <rect x="150" y="70" width="167" height="20" rx="4" fill="#8c959f"/>
+  <text x="325" y="85" font-size="13" fill="#57606a">~3 h</text>
+  <rect x="150" y="96" width="19" height="20" rx="4" fill="#1a7f37"/>
+  <text x="177" y="111" font-size="13" font-weight="600" fill="#1a7f37">~20 min  ·  89% less</text>
+
+  <text x="28" y="172" font-size="14" font-weight="600" fill="#1f2328">50 parts</text>
+  <rect x="150" y="150" width="250" height="20" rx="4" fill="#8c959f"/>
+  <text x="408" y="165" font-size="13" fill="#57606a">~4.5 h</text>
+  <rect x="150" y="176" width="23" height="20" rx="4" fill="#1a7f37"/>
+  <text x="181" y="191" font-size="13" font-weight="600" fill="#1a7f37">~25 min  ·  91% less</text>
+
+  <text x="28" y="252" font-size="14" font-weight="600" fill="#1f2328">120+ parts</text>
+  <rect x="150" y="230" width="500" height="20" rx="4" fill="#8c959f"/>
+  <text x="658" y="245" font-size="13" fill="#57606a">~9 h</text>
+  <rect x="150" y="256" width="28" height="20" rx="4" fill="#1a7f37"/>
+  <text x="186" y="271" font-size="13" font-weight="600" fill="#1a7f37">~30 min  ·  94% less</text>
+
+  <text x="28" y="310" font-size="12" fill="#6e7781">Excludes design and modelling time. Before: timed and estimated by several designers. After: timed on 30–40 real jobs.</text>
+</svg>
